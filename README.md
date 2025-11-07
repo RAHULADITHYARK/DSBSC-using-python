@@ -18,9 +18,11 @@ Software: Python with NumPy and Matplotlib libraries Hardware: Personal Computer
 
 6.Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and modulated signal.
 
-#Program
+# Program
+<img width="949" height="1075" alt="image" src="https://github.com/user-attachments/assets/50416872-ad3b-4b15-8a8b-d8d6ce483f65" />
 
 # Output Waveform
+<img width="1247" height="938" alt="image" src="https://github.com/user-attachments/assets/19badac9-d942-4178-855d-188b88931a7f" />
 
 # Tablulation
 
