@@ -25,7 +25,7 @@ Software: Python with NumPy and Matplotlib libraries Hardware: Personal Computer
 <img width="1247" height="938" alt="image" src="https://github.com/user-attachments/assets/19badac9-d942-4178-855d-188b88931a7f" />
 
 # Tablulation
-![WhatsApp Image 2025-11-07 at 11 12 17_7a05097c](https://github.com/user-attachments/assets/1c54c8c0-d49d-4953-a475-bec0bb496f01)
+![WhatsApp Image 2025-11-15 at 13 27 03_c00275e8](https://github.com/user-attachments/assets/57d8bb63-5c4b-4496-a06a-db902b2ba2d4)
 
 
 
